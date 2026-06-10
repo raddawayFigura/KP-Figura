@@ -27,14 +27,8 @@ If you're having issues with any of my models, feel free to message me on discor
 
 # Plans for next models
 
-Currently I am planning to make several more, in order of completion. The order is subject to change and some models may come earlier than others, depending on my motivation
+I'll be taking a year long hiatus on 26.06, I'll try to finish up and release as many models before then, but no promises!
 
-1. Hazmat suit + Hazzy (in progress)
-2. Pseudoshork (?)
-3. Buck
-4. Ghostfox (?)
-
-Models may come slightly sooner or later, depending on how motivated I am to work on each one. Generally, it takes me about a week or so to fully finish one model, though I may come back to older ones to add new stuff or change them slightly.
 
 # Credits
 
@@ -43,3 +37,4 @@ You're free to share or use my models however you'd like
 APIs used: 
 - SquAPI (Squishy API by MrSirSquishy [https://github.com/MrSirSquishy/SquishyAPI] )
 - SwingAPI (SwingAPI by Manuel-3 [https://github.com/Manuel-3/figura-scripts/blob/main/src/swingingphysics/swinging_physics.lua] )
+- Gaze (by Bitslayn [https://github.com/Bitslayn/Gaze/] )
